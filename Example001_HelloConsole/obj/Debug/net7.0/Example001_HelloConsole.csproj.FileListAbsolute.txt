@@ -1,0 +1,14 @@
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.exe
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.deps.json
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.runtimeconfig.json
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.dll
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.pdb
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfo.cs
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.dll
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\refint\Example001_HelloConsole.dll
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.pdb
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.genruntimeconfig.cache
+H:\Учеба\1-я. Четверть 2023\5. Знакомство с языками программирования\лекции\Examples\Example001_HelloConsole\obj\Debug\net7.0\ref\Example001_HelloConsole.dll
